@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  is_started: false
+  latitude: 1.5
+  longitude: 1.5
+  address: MyString
+  city: MyString
+  state: MyString
+  country: MyString
+  is_processed: false
+  errors: MyText
+
+two:
+  is_started: false
+  latitude: 1.5
+  longitude: 1.5
+  address: MyString
+  city: MyString
+  state: MyString
+  country: MyString
+  is_processed: false
+  errors: MyText

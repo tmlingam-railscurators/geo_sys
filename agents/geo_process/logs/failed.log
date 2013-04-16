@@ -1,0 +1,31 @@
+# Logfile created on 2013-04-16 20:06:20 +0530 by logger.rb/31641
+I, [2013-04-16T20:07:29.755261 #2696]  INFO -- : Mysql connection established
+E, [2013-04-16T20:07:29.755662 #2696] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:07:29.755808 #2696] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:61:in `<main>'"]
+I, [2013-04-16T20:10:09.546306 #2747]  INFO -- : Mysql connection established
+E, [2013-04-16T20:10:09.546708 #2747] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:10:09.546851 #2747] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:61:in `<main>'"]
+I, [2013-04-16T20:11:17.375892 #2880]  INFO -- : Mysql connection established
+E, [2013-04-16T20:11:17.376378 #2880] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:11:17.376529 #2880] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:62:in `<main>'"]
+I, [2013-04-16T20:11:38.895319 #2883]  INFO -- : Mysql connection established
+E, [2013-04-16T20:11:38.895551 #2883] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:11:38.895619 #2883] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:62:in `<main>'"]
+I, [2013-04-16T20:11:47.936588 #2886]  INFO -- : Mysql connection established
+E, [2013-04-16T20:11:47.936974 #2886] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:11:47.937119 #2886] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:62:in `<main>'"]
+I, [2013-04-16T20:15:54.222610 #3035]  INFO -- : Mysql connection established
+E, [2013-04-16T20:15:54.222845 #3035] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:15:54.222915 #3035] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:62:in `<main>'"]
+I, [2013-04-16T20:16:55.534434 #3038]  INFO -- : Mysql connection established
+E, [2013-04-16T20:16:55.534769 #3038] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:16:55.534838 #3038] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:62:in `<main>'"]
+I, [2013-04-16T20:17:09.628426 #3044]  INFO -- : Mysql connection established
+E, [2013-04-16T20:17:09.628766 #3044] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:17:09.628836 #3044] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:63:in `<main>'"]
+I, [2013-04-16T20:17:35.866004 #3171]  INFO -- : Mysql connection established
+E, [2013-04-16T20:17:35.866304 #3171] ERROR -- : Error Occured - undefined local variable or method `client' for main:Object
+E, [2013-04-16T20:17:35.866374 #3171] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:63:in `<main>'"]
+I, [2013-04-16T20:21:26.476558 #3239]  INFO -- : Mysql connection established
+E, [2013-04-16T20:21:26.476895 #3239] ERROR -- : Error Occured - undefined method `query' for true:TrueClass
+E, [2013-04-16T20:21:26.476965 #3239] ERROR -- : ["agents/geo_process/nominatim_geocoder.rb:63:in `<main>'"]

@@ -1,0 +1,15 @@
+<div class="contentHolder">
+		<div style=" border:1px solid; width:350px;height: 200px; background-color: #DEB887;border-radius: 8px 8px 8px 8px;margin-top:100px;margin-right:500px;float:right;">
+			<div style="margin-left:15px;margin-top:20px">
+			  <h3>Import Data</h3>
+				<%= form_tag import_data_home_index_path,:multipart=> true do %>
+				<%= label_tag "Choose File:" %><br/>
+				<%= file_field_tag :file ,:class=>"fileUpload"%>
+				<div id="import_error_message" style="color: red;font-size: 10px;width: 200px;"></div>
+				<div align="center"><%= submit_tag "Import" %></div>
+				<% end %>
+			</div>
+			<div id="import_error_message" style="color: red;font-size: 20px;width: 200px;margin-top:10px;"><%=flash[:notice]%></div>
+		</div>  
+		
+<div>

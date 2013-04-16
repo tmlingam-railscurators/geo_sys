@@ -1,0 +1,17 @@
+*/10 * * * * /var/www/html/current/agents/watchers/.stream_monitor_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.text_processing_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.location_processing_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.sentiment_analyzer_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.supervised_sentiment_topic_classifier_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.conversation_analyzer_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.geolookup_agent_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.conversation_monitor_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.direct_message_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.profile_queues_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.conversations_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.check_for_indexing_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.solr_indexing_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.solr_server_watcher > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.private_pub_watcher > /dev/null 2>&1
+0 */2 * * * /var/www/html/current/agents/watchers/.java_agents_watcher_trigger > /dev/null 2>&1
+*/10 * * * * /var/www/html/current/agents/watchers/.fb_crawler_watcher > /dev/null 2>&1
